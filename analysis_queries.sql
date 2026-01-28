@@ -1,10 +1,7 @@
 -- ================================================
 -- PREMIER LEAGUE 2024-25 SEASON - SQL QUERIES
--- Data Analysis Portfolio Project
 -- ================================================
 
--- Este archivo contiene queries SQL que demuestran habilidades
--- de consulta y análisis de datos usando SQL.
 -- Estas queries asumen una base de datos relacional con las siguientes tablas:
 --   - matches (partidos)
 --   - teams (equipos)
@@ -430,9 +427,5 @@ ORDER BY EXTRACT(DOW FROM match_date);
 
 
 -- ================================================
--- FIN DE QUERIES SQL
+-- FIN DE SQL
 -- ================================================
-
--- Nota: Estas queries son ejemplos de análisis SQL aplicado a datos deportivos.
--- Algunas queries pueden requerir ajustes según la estructura específica de tu base de datos.
--- Los índices apropiados en las columnas de fecha, equipos y resultados mejorarían el rendimiento.

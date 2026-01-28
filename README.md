@@ -7,7 +7,7 @@
 
 ## 📋 Descripción del Proyecto
 
-Proyecto completo de análisis de datos de la temporada 2024-25 de la Premier League inglesa. Este proyecto demuestra habilidades clave en análisis de datos, visualización, limpieza de datos y generación de insights para toma de decisiones.
+Proyecto completo de análisis de datos de la temporada 2024-25 de la Premier League. Este proyecto demuestra habilidades clave en análisis de datos, visualización, limpieza de datos y generación de insights para toma de decisiones.
 
 **Objetivo:** Analizar el rendimiento de equipos, patrones de juego, y generar insights accionables utilizando técnicas de análisis estadístico y visualización de datos.
 
@@ -27,7 +27,6 @@ Este proyecto showcasea las siguientes competencias técnicas demandadas en el m
 - ✅ **Pandas** - Manipulación y análisis de datos
 - ✅ **NumPy** - Operaciones numéricas
 - ✅ **Matplotlib & Seaborn** - Visualización de datos
-- ✅ **Git & GitHub** - Control de versiones
 
 ### 📈 Visualización de Datos
 - ✅ Gráficos de barras y distribuciones
@@ -65,32 +64,9 @@ premier-league-analysis/
 │   └── analysis_queries.sql         # Queries SQL para análisis
 │
 ├── README.md                         # Este archivo
-└── requirements.txt                  # Dependencias del proyecto
+
 ```
 
-## 🚀 Instalación y Uso
-
-### Requisitos Previos
-```bash
-Python 3.8 o superior
-pip (gestor de paquetes de Python)
-```
-
-### 1. Clonar el Repositorio
-```bash
-git clone https://github.com/tu-usuario/premier-league-analysis.git
-cd premier-league-analysis
-```
-
-### 2. Instalar Dependencias
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Ejecutar el Análisis
-```bash
-python src/premier_league_analysis.py
-```
 
 ## 📊 Dataset
 
@@ -175,36 +151,6 @@ El proyecto genera un dashboard completo con 6 visualizaciones clave:
 - El partido más goleador fue **Tottenham vs Liverpool (3-6)**
 - **Man City** es el equipo más disciplinado con menos tarjetas amarillas
 
-## 🔧 Tecnologías Utilizadas
-
-```python
-# Core
-Python 3.8+
-
-# Data Processing
-pandas==2.0.0
-numpy==1.24.0
-
-# Visualization
-matplotlib==3.7.0
-seaborn==0.12.0
-
-# Utilities
-datetime
-warnings
-```
-
-## 📝 Posibles Extensiones
-
-Este proyecto puede extenderse con:
-
-- [ ] **Machine Learning:** Predicción de resultados de partidos
-- [ ] **Dashboard Interactivo:** Implementación con Plotly/Dash o Streamlit
-- [ ] **API:** Creación de API REST para consultar estadísticas
-- [ ] **Análisis Avanzado:** Clustering de equipos por estilo de juego
-- [ ] **Base de Datos:** Migración a PostgreSQL o MongoDB
-- [ ] **Automatización:** Pipeline ETL para actualización automática de datos
-- [ ] **Web Scraping:** Recolección automática de datos de sitios web
 
 ## 🎓 Aprendizajes
 
@@ -217,19 +163,6 @@ Durante este proyecto se desarrollaron las siguientes competencias:
 5. **Documentación técnica profesional**
 6. **Análisis estadístico aplicado** a casos reales
 
-## 📧 Contacto
-
-**[Tu Nombre]**
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
-- GitHub: [tu-usuario](https://github.com/tu-usuario)
-- Email: tu.email@ejemplo.com
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
 ---
-
-⭐ Si este proyecto te resultó útil, no olvides darle una estrella!
 
 **Keywords:** Data Analysis, Python, Pandas, Data Visualization, Premier League, Sports Analytics, Data Science, Portfolio Project
